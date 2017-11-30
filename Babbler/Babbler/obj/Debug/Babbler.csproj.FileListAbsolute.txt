@@ -1,0 +1,28 @@
+C:\Users\Александр\Desktop\Babbler 0.1\Babbler\bin\Debug\Babbler.exe.config
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler 0.1\Babbler\bin\Debug\Babbler.exe.config
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler 0.1\Babbler\bin\Debug\Babbler.exe
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler 0.1\Babbler\bin\Debug\Babbler.pdb
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler 0.1\Babbler\obj\Debug\Babbler.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler 0.1\Babbler\obj\Debug\Babbler.Form1.resources
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler 0.1\Babbler\obj\Debug\Babbler.Properties.Resources.resources
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler 0.1\Babbler\obj\Debug\Babbler.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler 0.1\Babbler\obj\Debug\Babbler.exe
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler 0.1\Babbler\obj\Debug\Babbler.pdb
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler\Babbler\bin\Debug\Babbler.exe.config
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler\Babbler\bin\Debug\Babbler.exe
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler\Babbler\bin\Debug\Babbler.pdb
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler\Babbler\obj\Debug\Babbler.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler\Babbler\obj\Debug\Babbler.Form1.resources
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler\Babbler\obj\Debug\Babbler.Properties.Resources.resources
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler\Babbler\obj\Debug\Babbler.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler\Babbler\obj\Debug\Babbler.exe
+C:\Users\Александр\Desktop\Prog. Summer work\Babbler\Babbler\obj\Debug\Babbler.pdb
+C:\Users\Александр\OneDrive\Документы\Программирование\Prog. Summer work (sammer 2 cours)\Babbler\Babbler\bin\Debug\Babbler.exe.config
+C:\Users\Александр\OneDrive\Документы\Программирование\Prog. Summer work (sammer 2 cours)\Babbler\Babbler\bin\Debug\Babbler.exe
+C:\Users\Александр\OneDrive\Документы\Программирование\Prog. Summer work (sammer 2 cours)\Babbler\Babbler\bin\Debug\Babbler.pdb
+C:\Users\Александр\OneDrive\Документы\Программирование\Prog. Summer work (sammer 2 cours)\Babbler\Babbler\obj\Debug\Babbler.csprojResolveAssemblyReference.cache
+C:\Users\Александр\OneDrive\Документы\Программирование\Prog. Summer work (sammer 2 cours)\Babbler\Babbler\obj\Debug\Babbler.Form1.resources
+C:\Users\Александр\OneDrive\Документы\Программирование\Prog. Summer work (sammer 2 cours)\Babbler\Babbler\obj\Debug\Babbler.Properties.Resources.resources
+C:\Users\Александр\OneDrive\Документы\Программирование\Prog. Summer work (sammer 2 cours)\Babbler\Babbler\obj\Debug\Babbler.csproj.GenerateResource.Cache
+C:\Users\Александр\OneDrive\Документы\Программирование\Prog. Summer work (sammer 2 cours)\Babbler\Babbler\obj\Debug\Babbler.exe
+C:\Users\Александр\OneDrive\Документы\Программирование\Prog. Summer work (sammer 2 cours)\Babbler\Babbler\obj\Debug\Babbler.pdb
